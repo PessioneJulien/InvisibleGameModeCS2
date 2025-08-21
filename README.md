@@ -75,10 +75,8 @@ This plugin offers flexibility in gameplay by enabling dynamic control over visi
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [![Dotnet][Dotnet]][https://dotnet.microsoft.com/fr-fr/languages/csharp]
-* [![CSharp][CSharp]][https://dotnet.microsoft.com/fr-fr/download]
+* [![Dotnet][Dotnet]](https://dotnet.microsoft.com/en-us/languages/csharp)
+* [![CSharp][CSharp]](https://dotnet.microsoft.com/en-us/download)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
